@@ -2,6 +2,7 @@
 
 ### Notes from Summer Electrochemistry + Coffee Book Readings
 - Newman's Electrochemical Systems
-  - Chapter 1
-  - Chapter 2
-  - [Chapter 7](/notes)
+  - [1. INTRODUCTION]()
+  - [2. THERMODYNAMICS IN TERMS OF ELECTROCHEMICAL POTENTIALS ]()
+  - [3. THE ELECTRIC POTENTIAL]()
+  - [7. STRUCTURE OF THE ELECTRIC DOUBLE LAYER](/notes/chapter7)
